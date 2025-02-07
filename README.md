@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Data Science enthusiast with a strong academic background in mathematics and computer science, experienced in data analysis, Machine Learning, and proficient in Python and SQL.
 
 * 🌍  I'm based in New Delhi, India
-* 🖥️  See my resume at [MyResume](http://https://www.youtube.com/)
+* 🖥️  See my portfolio at [MyPortfolio](http://https://www.youtube.com/)
 * ✉️  You can contact me at [singhyash491@gmail.com](mailto:singhyash491@gmail.com)
 * ⚡  Passionate about leveraging data-driven insights to solve real-world problems.
 
